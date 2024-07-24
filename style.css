@@ -1,0 +1,62 @@
+body{
+    background-color: white;
+    font-style: normal;
+    padding: 0%;
+    margin: 0%;
+}
+.one{
+    background-color: rgb(44, 44, 155);
+    color: rgb(202, 206, 214);
+    display: flex;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.two{
+    padding-left: 110px;
+
+}
+.three{
+    padding-left: 100px;
+}
+.four{
+    padding-left: 60px;
+}
+.five{
+    padding-left: 200px;
+}
+button{
+    background-color: rgb(144, 144, 243);
+    min-width: 200px;
+    min-height: 50px;
+    color: white;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-color: rgb(144, 144, 243);
+}
+.six{
+    display: flex;
+}
+.seven{
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.eight{
+    display: flex;
+    padding-left: 165px;
+    padding-top: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(9, 9, 54);
+}
+.ten{
+    padding-left: 30px;
+}
+.nine{
+    display: flex;
+    padding-left: 200px;
+    padding-top: 30px;
+}
+.eleven{
+    padding-left: 30px;
+}
+.glyphicon glyphicon-time{
+    padding-top: 30px;
+}
